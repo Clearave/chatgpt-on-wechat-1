@@ -1,7 +1,7 @@
 {
     "group_app_map": {
-        "chatgpt测试群": "midjourney",
-        "chatgpt体验群": "midjourney"
+        "chatgpt测试群": "default",
+        "chatgpt体验群": "default"
     },
     "midjourney": {
         "enabled": true,
